@@ -5,6 +5,7 @@ MAP-DP clustering algorithm.
 I am NOT the owner of this amazing algorithm, this is just a way to archive this code to easily integrate it into my own projects. 
 
 Original code shared under CC BY-NC-SA 3.0
+
 [license](https://creativecommons.org/licenses/by-sa/3.0/)
 
 **Full credits go to:**
