@@ -20,11 +20,6 @@ I have included some examples with different data and settings to illustrate how
 
 ### Example 1: Gaussian Mixture Model
 
-Generated data image:
-![Groundtruth](generated_data_5_643.png)
-
-Clustering results:
-![Estimate](estimated_clusters_5_643.png)
-
-
-
+Generated data image             |  Clustering results
+:-------------------------:|:-------------------------:
+![Groundtruth](generated_data_5_643.png)  |  ![Estimate](estimated_clusters_5_643.png)
